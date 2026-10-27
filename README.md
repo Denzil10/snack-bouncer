@@ -1,6 +1,6 @@
 # Snack Bouncer
 
-A bouncer for your cart: an Android app that stands in front of the pay button while your quick-commerce or food-delivery cart holds junk food. Take the item out and you're in. Mild versions (zero sugar, dark chocolate, baked chips, Coke Zero) are on the list.
+A bouncer for your cart: an Android app that stands in front of the pay button while your quick-commerce or food-delivery cart holds junk food. Take the item out and you're in. Mild versions (zero sugar, dark chocolate, baked chips, Coke Zero) walk right in.
 
 Works with Zepto, Swiggy Instamart, Swiggy food and Zomato; Blinkit and Amazon are listed but not yet checked against a real cart.
 
