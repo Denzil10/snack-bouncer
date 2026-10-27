@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" class="android.widget.FrameLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+    <node index="0" text="" class="android.widget.LinearLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+      <node index="0" text="" class="android.widget.FrameLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+        <node index="0" text="" class="android.widget.LinearLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+          <node index="0" text="" class="android.widget.FrameLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+            <node index="0" text="" class="android.view.ViewGroup" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+              <node index="0" text="" class="android.widget.FrameLayout" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                <node index="0" text="" class="android.webkit.WebView" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                  <node index="0" text="" class="android.webkit.WebView" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                    <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                      <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                        <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                          <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,2460]">
+                            <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,0][1080,288]">
+                              <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,108][1080,288]">
+                                <node index="0" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="double tap to go back" bounds="[48,174][96,222]" />
+                                <node index="1" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Click to change address" bounds="[120,147][960,249]" />
+                                <node index="2" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="" bounds="[984,174][1032,222]" />
+                              </node>
+                            </node>
+                            <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,288][1080,1905]">
+                              <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,288][1080,438]">
+                                <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,294][1032,432]">
+                                  <node index="0" text="Regular cart" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[60,306][540,420]" />
+                                  <node index="1" text="Maxxsaver cart locked" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[540,306][1020,420]" />
+                                </node>
+                              </node>
+                              <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,462][1080,534]">
+                                <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[96,462][984,534]">
+                                  <node index="0" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[96,444][984,552]" />
+                                </node>
+                              </node>
+                              <node index="2" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,606][1032,1200]">
+                                <node index="0" text="" class="android.view.ViewGroup" package="in.swiggy.android" content-desc="" bounds="[54,636][1026,723]">
+                                  <node index="0" text="Items" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[54,636][342,723]" />
+                                  <node index="1" text="Items" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[342,636][630,723]" />
+                                  <node index="2" text="Items" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[630,636][918,723]" />
+                                  <node index="3" text="Items" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[918,636][1080,723]" />
+                                </node>
+                                <node index="1" text="" class="android.widget.ListView" package="in.swiggy.android" content-desc="" bounds="[54,759][1026,1146]">
+                                  <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[102,759][891,1146]">
+                                    <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[105,798][888,990]">
+                                      <node index="0" text="Indian Tomato (Tamata), 500 g, quantity 1, price 9 rupees" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[153,783][765,816]" />
+                                      <node index="1" text="₹9 everyday badge" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[153,798][303,948]" />
+                                      <node index="2" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[495,798][690,894]">
+                                        <node index="0" text="" class="android.widget.ToggleButton" package="in.swiggy.android" content-desc="" bounds="[495,798][690,894]" />
+                                      </node>
+                                    </node>
+                                  </node>
+                                  <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[912,759][1080,1146]">
+                                    <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[915,798][1080,990]">
+                                      <node index="0" text="Green Cucumber (Kakadi), 2 Pieces, quantity 1, price 9 rupees" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[963,783][1080,816]" />
+                                      <node index="1" text="₹9 everyday badge" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[963,798][1080,948]" />
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                              <node index="3" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1272][1032,1914]">
+                                <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1272][1032,1914]">
+                                  <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1272][1032,1914]">
+                                    <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1272][1032,1866]">
+                                      <node index="0" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="4 Mins, Total 1 item" bounds="[96,1272][984,1428]" />
+                                      <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1428][1032,1866]">
+                                        <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1464][1032,1668]">
+                                          <node index="0" text="Monster Energy Drink, 350 ml, quantity 1, price 109 rupees" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[96,1449][708,1482]" />
+                                          <node index="1" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[96,1464][246,1614]" />
+                                          <node index="2" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[606,1464][834,1560]">
+                                            <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[606,1464][834,1560]">
+                                              <node index="0" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Remove 1 item from cart" bounds="[609,1467][681,1557]" />
+                                              <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[609,1467][831,1557]">
+                                                <node index="0" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[609,1467][831,1557]" />
+                                              </node>
+                                              <node index="2" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Add 1 item to cart" bounds="[759,1467][831,1557]" />
+                                            </node>
+                                          </node>
+                                          <node index="3" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Move to wishlist" bounds="[270,1620][477,1668]" />
+                                        </node>
+                                        <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1716][1032,1818]">
+                                          <node index="0" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="You might have missed some items. Double tap to open the home page" bounds="[96,1716][471,1818]" />
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                              <node index="4" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,1914][1032,2277]">
+                                <node index="0" text="SAVINGS CORNER" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[96,1962][984,2010]" />
+                                <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[96,2010][984,2229]">
+                                  <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[96,2058][885,2229]">
+                                    <node index="0" text="Coupon%20Icon" class="android.widget.Image" package="in.swiggy.android" content-desc="" bounds="[96,2064][156,2124]" />
+                                    <node index="1" text="Save upto " class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[192,2058][390,2112]" />
+                                    <node index="2" text="₹40" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[387,2058][465,2112]" />
+                                    <node index="3" text=" cashback with BHIMNEW" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[192,2058][741,2166]" />
+                                    <node index="4" text="View all coupons &amp; offers" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[192,2178][612,2229]" />
+                                    <node index="5" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[615,2184][654,2223]" />
+                                  </node>
+                                  <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[882,2058][984,2109]">
+                                    <node index="0" text="Apply" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[882,2058][984,2109]" />
+                                  </node>
+                                </node>
+                              </node>
+                              <node index="5" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[48,2325][1032,2460]">
+                                <node index="0" text="Generic%20thumbnail%20BW%20Portrait" class="android.widget.Image" package="in.swiggy.android" content-desc="" bounds="[84,2361][192,2460]" />
+                                <node index="1" text="Add GSTIN" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[216,2361][885,2415]" />
+                                <node index="2" text="Claim GST credit up to 18% on the order" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[216,2427][885,2460]" />
+                                <node index="3" text="Add" class="android.widget.Button" package="in.swiggy.android" content-desc="" bounds="[906,2361][984,2415]" />
+                              </node>
+                            </node>
+                            <node index="2" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,1905][1080,2460]">
+                              <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,1905][1080,2340]">
+                                <node index="0" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[0,1905][1080,2292]">
+                                  <node index="0" text="Pay using" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[192,1953][984,2007]" />
+                                  <node index="1" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[192,2007][984,2070]">
+                                    <node index="0" text="Google Pay" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[192,2007][441,2070]" />
+                                  </node>
+                                  <node index="2" text="" class="android.view.View" package="in.swiggy.android" content-desc="" bounds="[804,1953][1032,2010]">
+                                    <node index="0" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Change payment method" bounds="[804,1953][990,2007]" />
+                                    <node index="1" text="" class="android.widget.Image" package="in.swiggy.android" content-desc="" bounds="[1014,1962][1032,1995]" />
+                                  </node>
+                                  <node index="3" text="" class="android.widget.Button" package="in.swiggy.android" content-desc="Slide to Pay ₹156" bounds="[48,2118][1032,2292]" />
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node index="2" text="" class="android.widget.TextView" package="in.swiggy.android" content-desc="" bounds="[939,2337][1080,2460]" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

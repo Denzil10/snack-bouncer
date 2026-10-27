@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {"id": "energy", "name": "Energy drinks", "terms": ["monster", "red bull", "sting", "hell energy", "charged", "predator", "prime energy", "energy drink", "caffeinated drink"], "allow": [], "swap": "a zero-sugar sports drink"},
+    {"id": "icecream", "name": "Ice cream", "terms": ["ice cream", "icecream", "frozen dessert", "kulfi", "sundae", "magnum", "cornetto", "gelato", "ice candy", "popsicle"], "allow": [], "swap": "a sugar-free ice cream"},
+    {"id": "softdrink", "name": "Soft drinks", "terms": ["coca cola", "coke", "pepsi", "thums up", "sprite", "fanta", "mountain dew", "7up", "limca", "mirinda", "soft drink", "cold drink", "soda can", "campa cola", "campa"], "allow": ["coke zero", "diet coke", "pepsi black", "pepsi zero", "thums up zero", "sprite zero"], "swap": "Coke Zero or sparkling water"},
+    {"id": "juice", "name": "Sugary juices and shakes", "terms": ["maaza", "frooti", "slice mango", "slice drink", "appy", "appy fizz", "real fruit power", "real juice", "tropicana", "paper boat", "minute maid", "fruit drink", "fruit juice", "mango drink", "rasna", "tang", "glucon d", "iced tea", "cold coffee", "milkshake", "flavoured milk", "flavored milk"], "allow": ["coconut water", "tender coconut"], "swap": "coconut water or buttermilk"},
+    {"id": "chocolate", "name": "Chocolate and candy", "terms": ["chocolate", "dairy milk", "kitkat", "kit kat", "5 star", "five star", "snickers", "munch", "perk", "gems", "nutella", "candy", "toffee", "lollipop", "eclairs"], "allow": ["dark chocolate", "70% dark", "cocoa powder"], "swap": "a square of dark chocolate"},
+    {"id": "biscuit", "name": "Cream biscuits and cookies", "terms": ["oreo", "dark fantasy", "hide & seek", "hide and seek", "bourbon", "jim jam", "cream biscuit", "cookies", "cookie", "good day", "unibic"], "allow": ["marie", "digestive", "oats biscuit", "ragi biscuit"], "swap": "Marie or digestive biscuits"},
+    {"id": "cake", "name": "Cakes and pastries", "terms": ["cake", "cupcake", "pastry", "pastries", "brownie", "donut", "doughnut", "muffin", "swiss roll", "choco pie", "chocopie", "waffle"], "allow": ["rice cake", "rice cakes"], "swap": "fruit"},
+    {"id": "chips", "name": "Chips and namkeen", "terms": ["lay's", "lays", "kurkure", "bingo", "uncle chipps", "pringles", "doritos", "cheetos", "chips", "wafers", "nachos", "bhujia", "namkeen", "mixture", "aloo bhujia", "puffs"], "allow": ["baked", "makhana", "roasted chana"], "swap": "roasted makhana or chana"},
+    {"id": "noodles", "name": "Instant noodles", "terms": ["instant noodles", "maggi 2-minute", "maggi masala noodles", "masala noodles", "yippee", "top ramen", "cup noodles", "ramen"], "allow": [], "swap": "poha or upma"},
+    {"id": "mithai", "name": "Mithai", "terms": ["gulab jamun", "rasgulla", "soan papdi", "kaju katli", "barfi", "burfi", "laddu", "ladoo", "jalebi", "halwa", "peda", "rasmalai", "mithai", "sweets box"], "allow": [], "swap": "dates or fruit"},
+    {"id": "fastfood", "name": "Fast food", "terms": ["pizza", "burger", "fries", "french fries", "fried chicken", "nuggets", "hot dog", "samosa", "kachori", "pakora", "vada pav", "shawarma"], "allow": [], "swap": "a grilled or tandoori option"}
+  ],
+  "allowTerms": ["zero sugar", "no added sugar", "sugar free", "sugar-free", "sugarfree", "no sugar"],
+  "lines": {
+    "block": ["Not the {item} today", "{item} can wait", "Skip the {item} this time"],
+    "blockJoke": ["The {item} will survive without you"],
+    "blockBody": "Remove it to place the order. Try {swap}.",
+    "jokeEvery": 4
+  },
+  "pay": "(?i)^(pay now|pay ₹|instant order|place order|place your order|proceed to pay|proceed to buy|slide to pay)",
+  "remove": "(?i)^(?:(?:remove|decrease|delete)\\b|[−–-]$|\\d{1,2}$)",
+  "apps": ["com.zeptoconsumerapp", "in.swiggy.android", "com.grofers.customerapp", "com.application.zomato", "in.amazon.mShop.android.shopping"],
+  "appNames": {"com.zeptoconsumerapp": "Zepto", "in.swiggy.android": "Swiggy and Instamart", "com.grofers.customerapp": "Blinkit", "com.application.zomato": "Zomato", "in.amazon.mShop.android.shopping": "Amazon"}
+}

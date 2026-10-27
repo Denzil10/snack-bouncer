@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+    <node index="0" text="" class="android.widget.LinearLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+      <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+        <node index="0" text="" class="android.widget.LinearLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+          <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+            <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]" />
+            <node index="1" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                  <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]" />
+                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                        <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                          <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                              <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]" />
+                                <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                  <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                        <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                          <node index="0" text="" class="android.widget.FrameLayout" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                              <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                                  <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,2460]">
+                                                        <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,108][1080,2099]" />
+                                                        <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,108][1080,342]">
+                                                          <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,108][1080,342]" />
+                                                          <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,108][1080,264]">
+                                                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,138][132,234]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,138][132,234]">
+                                                                <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[36,138][132,234]" />
+                                                              </node>
+                                                            </node>
+                                                            <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Home" bounds="[162,132][918,240]">
+                                                              <node index="0" text="Home" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[162,132][281,186]" />
+                                                              <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[287,135][335,183]">
+                                                                <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[287,135][335,183]" />
+                                                              </node>
+                                                              <node index="2" text="Home" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[162,192][918,234]" />
+                                                            </node>
+                                                            <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[948,138][1044,234]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[948,138][1044,234]">
+                                                                <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[948,138][1044,234]" />
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                          <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,264][1080,342]" />
+                                                          <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Yay! You saved ₹179 on this order ￼" bounds="[0,282][1080,324]">
+                                                            <node index="0" text="Yay! You saved ₹179 on this order ￼" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[0,282][1080,324]" />
+                                                            <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[790,302][838,314]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[790,302][838,314]">
+                                                                <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[790,302][838,314]" />
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                        <node index="2" text="" class="android.widget.ScrollView" package="com.zeptoconsumerapp" content-desc="" bounds="[0,342][1080,2099]">
+                                                          <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,342][1080,2099]">
+                                                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,378][1080,1044]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,378][1044,1008]" />
+                                                              <node index="1" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[36,378][1044,1008]" />
+                                                              <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,378][1044,1008]">
+                                                                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,378][1044,1008]">
+                                                                  <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,381][1041,573]">
+                                                                    <node index="0" text="Savings worth ₹33" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[78,423][1002,483]" />
+                                                                    <node index="1" text="with Zepto Club" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[78,489][1002,531]" />
+                                                                  </node>
+                                                                  <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[688,381][1005,447]">
+                                                                    <node index="0" text="EXCLUSIVE INVITE" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[706,393][987,435]" />
+                                                                  </node>
+                                                                  <node index="2" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[75,573][78,795]" />
+                                                                  <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[171,573][291,693]">
+                                                                    <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[171,573][291,693]" />
+                                                                  </node>
+                                                                  <node index="4" text="Flat 5%&#10;cashback" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[154,711][308,795]" />
+                                                                  <node index="5" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[384,573][387,795]" />
+                                                                  <node index="6" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[480,573][600,693]">
+                                                                    <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[480,573][600,693]" />
+                                                                  </node>
+                                                                  <node index="7" text="Priority&#10;Delivery" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[471,711][608,795]" />
+                                                                  <node index="8" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[693,573][696,795]" />
+                                                                  <node index="9" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,573][909,693]">
+                                                                    <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[789,573][909,693]" />
+                                                                  </node>
+                                                                  <node index="10" text="Priority&#10;Support" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[781,711][916,795]" />
+                                                                  <node index="11" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[1002,573][1005,795]" />
+                                                                  <node index="12" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,843][1023,987]">
+                                                                    <node index="0" text="JOIN FOR 1 MONTH" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[93,867][418,903]" />
+                                                                    <node index="1" text="₹149 ₹199" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[93,909][418,963]" />
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Add Club" bounds="[744,867][999,963]">
+                                                                      <node index="0" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[744,867][999,963]" />
+                                                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[744,867][999,963]">
+                                                                        <node index="0" text="Add Club" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[789,891][954,939]" />
+                                                                      </node>
+                                                                    </node>
+                                                                  </node>
+                                                                </node>
+                                                              </node>
+                                                            </node>
+                                                            <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,1044][1080,2099]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,1044][1044,2099]">
+                                                                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,1044][1044,2099]">
+                                                                  <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1047][1041,1230]">
+                                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1083][183,1191]">
+                                                                      <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1083][183,1191]" />
+                                                                    </node>
+                                                                    <node index="1" text="Delivering in 6 mins" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[213,1086][603,1140]" />
+                                                                    <node index="2" text="4 items" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[213,1140][331,1188]" />
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Schedule" bounds="[722,1086][1005,1188]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[722,1086][1005,1188]">
+                                                                        <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[755,1115][800,1160]">
+                                                                          <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[755,1115][800,1160]" />
+                                                                        </node>
+                                                                        <node index="1" text="Schedule" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[818,1113][972,1161]" />
+                                                                      </node>
+                                                                    </node>
+                                                                  </node>
+                                                                  <node index="1" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1230][1041,1434]" />
+                                                                  <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1230][1041,1434]">
+                                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1254][231,1410]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1254][231,1410]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1254][231,1410]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1284][764,1332]">
+                                                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1284][758,1332]">
+                                                                        <node index="0" text="Get priority delivery &amp; support" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1284][758,1332]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Join Zepto Club for 1 month￼" bounds="[261,1344][764,1380]">
+                                                                      <node index="0" text="Join Zepto Club for 1 month￼" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1344][764,1380]" />
+                                                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[634,1361][670,1371]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[634,1361][670,1371]">
+                                                                          <node index="0" text="" class="com.horcrux.svg.GroupView" package="com.zeptoconsumerapp" content-desc="" bounds="[646,1348][660,1371]">
+                                                                            <node index="0" text="" class="com.horcrux.svg.PathView" package="com.zeptoconsumerapp" content-desc="" bounds="[646,1348][660,1371]" />
+                                                                          </node>
+                                                                        </node>
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Add" bounds="[794,1257][1005,1347]">
+                                                                      <node index="0" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[794,1257][1005,1347]" />
+                                                                      <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[794,1257][1005,1347]">
+                                                                        <node index="0" text="Add" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[863,1278][936,1326]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="4" text="₹199" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[829,1359][905,1407]" />
+                                                                    <node index="5" text="₹149" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[917,1359][999,1404]" />
+                                                                  </node>
+                                                                  <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1434][1041,1437]" />
+                                                                  <node index="4" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1437][1041,1641]" />
+                                                                  <node index="5" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1437][1041,1641]">
+                                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1449][117,1509]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1449][117,1509]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1449][117,1509]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="1" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Monster High Caffeinated Drink | Ready To Drink Beverage" bounds="[75,1461][231,1617]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1461][231,1617]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[77,1463][230,1616]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Monster High Caffeinated Drink | Ready To Drink Beverage, Quantity is  : 1 pc (350 ml)" bounds="[231,1461][789,1617]">
+                                                                      <node index="0" text="Monster High Caffeinated Drink | Ready To Drink Beverage" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1467][741,1563]" />
+                                                                      <node index="1" text="1 pc (350 ml)" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1575][434,1611]" />
+                                                                    </node>
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1461][1005,1548]" />
+                                                                    <node index="4" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1461][1005,1548]">
+                                                                      <node index="0" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Remove" bounds="[815,1490][845,1520]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[815,1490][845,1520]" />
+                                                                      </node>
+                                                                      <node index="1" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[889,1478][905,1531]" />
+                                                                      <node index="2" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Add" bounds="[950,1490][980,1520]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[950,1490][980,1520]">
+                                                                          <node index="0" text="" class="com.horcrux.svg.GroupView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1492][977,1517]">
+                                                                            <node index="0" text="" class="com.horcrux.svg.PathView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1492][977,1517]" />
+                                                                          </node>
+                                                                        </node>
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="5" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[824,1560][999,1611]">
+                                                                      <node index="0" text="₹125" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[824,1560][899,1608]" />
+                                                                      <node index="1" text="₹109" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[911,1560][999,1611]" />
+                                                                    </node>
+                                                                  </node>
+                                                                  <node index="6" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1641][1041,1644]" />
+                                                                  <node index="7" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1644][1041,1848]" />
+                                                                  <node index="8" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1644][1041,1848]">
+                                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1656][117,1716]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1656][117,1716]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[57,1656][117,1716]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="1" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Monster Ultra Peachy Keen Zero Sugar High Caffeinated Drink" bounds="[75,1668][231,1824]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1668][231,1824]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[77,1670][230,1823]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Monster Ultra Peachy Keen Zero Sugar High Caffeinated Drink, Quantity is  : 1 pc (500 ml)" bounds="[231,1668][789,1824]">
+                                                                      <node index="0" text="Monster Ultra Peachy Keen Zero Sugar High Caffeinated Drink" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1674][741,1770]" />
+                                                                      <node index="1" text="1 pc (500 ml)" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1782][437,1818]" />
+                                                                    </node>
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1668][1005,1755]" />
+                                                                    <node index="4" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1668][1005,1755]">
+                                                                      <node index="0" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Remove" bounds="[815,1697][845,1727]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[815,1697][845,1727]" />
+                                                                      </node>
+                                                                      <node index="1" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[889,1685][905,1738]" />
+                                                                      <node index="2" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Add" bounds="[950,1697][980,1727]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[950,1697][980,1727]">
+                                                                          <node index="0" text="" class="com.horcrux.svg.GroupView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1699][977,1724]">
+                                                                            <node index="0" text="" class="com.horcrux.svg.PathView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1699][977,1724]" />
+                                                                          </node>
+                                                                        </node>
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="5" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[811,1767][999,1818]">
+                                                                      <node index="0" text="₹360" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[811,1767][897,1815]" />
+                                                                      <node index="1" text="₹336" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[909,1767][999,1818]" />
+                                                                    </node>
+                                                                  </node>
+                                                                  <node index="9" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1848][1041,1851]" />
+                                                                  <node index="10" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1851][1041,2055]" />
+                                                                  <node index="11" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,1851][1041,2055]">
+                                                                    <node index="0" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="OB &amp; GOB Tiramisu &amp; Fudge Ice Cream Sundae" bounds="[75,1875][231,2031]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,1875][231,2031]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[77,1877][230,2030]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="OB &amp; GOB Tiramisu &amp; Fudge Ice Cream Sundae, Quantity is  : 1 pc (200 ml)" bounds="[231,1875][789,2031]">
+                                                                      <node index="0" text="OB &amp; GOB Tiramisu &amp; Fudge Ice Cream Sundae" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1881][741,1977]" />
+                                                                      <node index="1" text="1 pc (200 ml)" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,1989][437,2025]" />
+                                                                    </node>
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1875][1005,1962]" />
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,1875][1005,1962]">
+                                                                      <node index="0" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Remove" bounds="[815,1904][845,1934]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[815,1904][845,1934]" />
+                                                                      </node>
+                                                                      <node index="1" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[889,1892][905,1945]" />
+                                                                      <node index="2" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Add" bounds="[950,1904][980,1934]">
+                                                                        <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[950,1904][980,1934]">
+                                                                          <node index="0" text="" class="com.horcrux.svg.GroupView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1906][977,1931]">
+                                                                            <node index="0" text="" class="com.horcrux.svg.PathView" package="com.zeptoconsumerapp" content-desc="" bounds="[952,1906][977,1931]" />
+                                                                          </node>
+                                                                        </node>
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="4" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[818,1974][999,2025]">
+                                                                      <node index="0" text="₹250" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[818,1974][904,2022]" />
+                                                                      <node index="1" text="₹152" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[916,1974][999,2025]" />
+                                                                    </node>
+                                                                  </node>
+                                                                  <node index="12" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,2055][1041,2058]" />
+                                                                  <node index="13" text="" class="android.view.View" package="com.zeptoconsumerapp" content-desc="" bounds="[39,2058][1041,2099]" />
+                                                                  <node index="14" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[39,2058][1041,2099]">
+                                                                    <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,2070][117,2099]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[57,2070][117,2099]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[57,2070][117,2099]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="1" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Kwality Wall's Magnum Chocolate Truffle Ice Cream Stick" bounds="[75,2082][231,2099]">
+                                                                      <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[75,2082][231,2099]">
+                                                                        <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[77,2084][230,2099]" />
+                                                                      </node>
+                                                                    </node>
+                                                                    <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Kwality Wall's Magnum Chocolate Truffle Ice Cream Stick, Quantity is  : 1 pc (63 g)" bounds="[231,2082][789,2099]">
+                                                                      <node index="0" text="Kwality Wall's Magnum Chocolate Truffle Ice Cream Stick" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[261,2088][741,2099]" />
+                                                                    </node>
+                                                                    <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,2082][1005,2099]" />
+                                                                    <node index="4" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[789,2082][1005,2099]" />
+                                                                  </node>
+                                                                </node>
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                        <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,2099][1080,2460]" />
+                                                        <node index="4" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,2137][1080,2416]" />
+                                                        <node index="5" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,2137][1080,2416]" />
+                                                        <node index="6" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,2137][1080,2242]">
+                                                          <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,2137][1044,2242]" />
+                                                          <node index="1" text="" class="android.widget.CheckBox" package="com.zeptoconsumerapp" content-desc="No Bag Delivery Checkbox" bounds="[60,2161][117,2218]">
+                                                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[66,2167][111,2212]">
+                                                              <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[71,2179][104,2203]">
+                                                                <node index="0" text="" class="com.horcrux.svg.GroupView" package="com.zeptoconsumerapp" content-desc="" bounds="[76,2181][101,2198]">
+                                                                  <node index="0" text="" class="com.horcrux.svg.PathView" package="com.zeptoconsumerapp" content-desc="" bounds="[76,2181][101,2198]" />
+                                                                </node>
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                          <node index="2" text="I don’t need a bag" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[135,2168][428,2210]" />
+                                                          <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[458,2167][503,2212]">
+                                                            <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[458,2167][503,2212]" />
+                                                          </node>
+                                                          <node index="4" text="" class="android.widget.Button" package="com.zeptoconsumerapp" content-desc="Know More about No Bag Delivery" bounds="[990,2175][1020,2205]">
+                                                            <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[990,2175][1020,2205]">
+                                                              <node index="0" text="" class="com.horcrux.svg.SvgView" package="com.zeptoconsumerapp" content-desc="" bounds="[990,2175][1020,2205]" />
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                        <node index="7" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,2272][1080,2416]">
+                                                          <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[36,2272][1044,2416]">
+                                                            <node index="0" text="To Pay" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[36,2284][152,2332]" />
+                                                            <node index="1" text="₹676" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[36,2344][152,2404]" />
+                                                            <node index="2" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Instant Order, Pay while we deliver" bounds="[197,2272][621,2416]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[197,2272][621,2416]">
+                                                                <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[225,2308][297,2380]">
+                                                                  <node index="0" text="" class="android.widget.ImageView" package="com.zeptoconsumerapp" content-desc="" bounds="[225,2308][297,2380]" />
+                                                                </node>
+                                                                <node index="1" text="Instant Order" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[309,2299][580,2347]" />
+                                                                <node index="2" text="Pay while we deliver" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[309,2347][580,2389]" />
+                                                              </node>
+                                                            </node>
+                                                            <node index="3" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="Pay Now" bounds="[645,2272][1044,2416]">
+                                                              <node index="0" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[645,2272][1044,2416]">
+                                                                <node index="0" text="Pay Now" class="android.widget.TextView" package="com.zeptoconsumerapp" content-desc="" bounds="[755,2314][935,2374]" />
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                      </node>
+                                                    </node>
+                                                  </node>
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,300]" />
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                        <node index="1" text="" class="android.view.ViewGroup" package="com.zeptoconsumerapp" content-desc="" bounds="[0,0][1080,192]" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>
