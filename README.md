@@ -4,7 +4,7 @@ An Android app that covers the pay button while your quick-commerce or food-deli
 
 Works with Zepto, Swiggy Instamart, Swiggy food and Zomato; Blinkit and Amazon are listed but not yet checked against a real cart.
 
-**Status: preview.** The cart-reading engine is unit-tested against real screen dumps of the four apps above. The 0.1.0 build has been run on an Android 15 emulator against a stand-in cart (two drinks, a pay button): the card came up over the pay button, blocked taps on it, and lifted once the drink was removed. It has not yet been run on a phone or inside the real apps. If it misses a cart or covers the wrong spot, [open an issue](https://github.com/Denzil10/cart-gate/issues).
+**Status: preview.** The cart-reading engine is unit-tested against real screen dumps of the four apps above, and the engine it was extracted from has gated real carts in all four on an Android 13 phone. The 0.1.0 build itself has been run on that phone inside Zepto: the card came up over the pay bar with a full-sugar drink in the cart and lifted once the drink was removed ([screenshots](https://denzil10.github.io/lab/cart-gate/)). On an Android 15 emulator against a stand-in cart it also blocked taps on the pay button. If it misses a cart or covers the wrong spot, say so on [its Lab page](https://denzil10.github.io/lab/cart-gate/) or [open an issue](https://github.com/Denzil10/cart-gate/issues).
 
 ## Install
 
