@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cart-gate"
+rootProject.name = "snack-bouncer"
 include(":app")

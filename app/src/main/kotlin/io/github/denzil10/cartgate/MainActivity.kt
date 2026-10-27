@@ -45,7 +45,7 @@ class MainActivity : Activity() {
             orientation = LinearLayout.VERTICAL
             setPadding(dp(20), dp(24), dp(20), dp(32))
         }
-        page.addView(text("Cart Gate", 28f, bold = true))
+        page.addView(text("Snack Bouncer", 28f, bold = true))
         page.addView(text(
             "Covers the pay button in shopping apps while your cart holds junk food. " +
                 "Remove the item and the button comes back. Mild versions (zero sugar, dark chocolate, baked) go through.",
@@ -94,7 +94,7 @@ class MainActivity : Activity() {
 
         heading(page, "Privacy")
         page.addView(text(
-            "Cart Gate has no internet permission: what it reads stays on this phone, and it keeps no history. " +
+            "Snack Bouncer has no internet permission: what it reads stays on this phone, and it keeps no history. " +
                 "It reads screen text only while one of the apps above is open.",
             14f, muted = true,
         ))
@@ -139,11 +139,11 @@ class MainActivity : Activity() {
             }
             !serviceOn() -> {
                 status.addView(text("Almost there", 17f, bold = true))
-                status.addView(text("In Accessibility settings, open Cart Gate and switch it on.", 15f))
+                status.addView(text("In Accessibility settings, open Snack Bouncer and switch it on.", 15f))
                 status.addView(Button(this).apply { text = "Open Accessibility settings"; setOnClickListener { openAccessibility() } })
             }
             else -> {
-                status.addView(text("Cart Gate is on", 17f, bold = true))
+                status.addView(text("Snack Bouncer is on", 17f, bold = true))
                 status.addView(text("Open a cart in one of the apps below. To stop it, switch it off in Accessibility settings.", 15f))
                 status.addView(Button(this).apply { text = "Accessibility settings"; setOnClickListener { openAccessibility() } })
             }
@@ -170,7 +170,7 @@ class MainActivity : Activity() {
     /** Some builds (test images, locked-down phones) have no Accessibility screen: fall back to Settings. */
     private fun openAccessibility() {
         if (!open(Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS))) {
-            open(Intent(Settings.ACTION_SETTINGS), "Open Settings, then Accessibility, then Cart Gate")
+            open(Intent(Settings.ACTION_SETTINGS), "Open Settings, then Accessibility, then Snack Bouncer")
         }
     }
 
@@ -230,9 +230,9 @@ class MainActivity : Activity() {
     private fun dp(value: Int) = (value * resources.displayMetrics.density).toInt()
 
     private companion object {
-        const val SOURCE = "https://github.com/Denzil10/cart-gate"
+        const val SOURCE = "https://github.com/Denzil10/snack-bouncer"
         const val DISCLOSURE =
-            "Cart Gate uses Android's Accessibility service to read the text on screen while Zepto, Swiggy, " +
+            "Snack Bouncer uses Android's Accessibility service to read the text on screen while Zepto, Swiggy, " +
                 "Instamart, Blinkit, Zomato or Amazon is open. It looks for the pay button and the items in your cart, " +
                 "and if one is on your Block list it covers the pay button until you remove it.\n\n" +
                 "It reads nothing in other apps, keeps no history and cannot send anything anywhere: " +

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cart Gate</string>
+    <string name="app_name">Snack Bouncer</string>
     <string name="service_summary">Covers the pay button while your cart holds junk food</string>
-    <string name="service_description">Cart Gate reads the text on screen only while a shopping app you listed is open, to find the pay button and the items in your cart. If an item is on your Block list, it covers the pay button until you remove it. It keeps no history and has no internet permission, so nothing it reads leaves this phone.</string>
+    <string name="service_description">Snack Bouncer reads the text on screen only while a shopping app you listed is open, to find the pay button and the items in your cart. If an item is on your Block list, it covers the pay button until you remove it. It keeps no history and has no internet permission, so nothing it reads leaves this phone.</string>
 </resources>

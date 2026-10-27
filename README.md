@@ -1,16 +1,16 @@
-# Cart Gate
+# Snack Bouncer
 
-An Android app that covers the pay button while your quick-commerce or food-delivery cart holds junk food. Take the item out and the button comes back. Mild versions (zero sugar, dark chocolate, baked chips, Coke Zero) go through.
+A bouncer for your cart: an Android app that stands in front of the pay button while your quick-commerce or food-delivery cart holds junk food. Take the item out and you're in. Mild versions (zero sugar, dark chocolate, baked chips, Coke Zero) are on the list.
 
 Works with Zepto, Swiggy Instamart, Swiggy food and Zomato; Blinkit and Amazon are listed but not yet checked against a real cart.
 
-**Status: preview.** The cart-reading engine is unit-tested against real screen dumps of the four apps above, and the engine it was extracted from has gated real carts in all four on an Android 13 phone. The 0.1.0 build itself has been run on that phone inside Zepto: the card came up over the pay bar with a full-sugar drink in the cart and lifted once the drink was removed ([screenshots](https://denzil10.github.io/lab/cart-gate/)). On an Android 15 emulator against a stand-in cart it also blocked taps on the pay button. If it misses a cart or covers the wrong spot, say so on [its Lab page](https://denzil10.github.io/lab/cart-gate/) or [open an issue](https://github.com/Denzil10/cart-gate/issues).
+**Status: preview.** The cart-reading engine is unit-tested against real screen dumps of the four apps above, and the engine it was extracted from has gated real carts in all four on an Android 13 phone. The 0.1.0 build (then called Cart Gate; 0.1.1 only renames it) has been run on that phone inside Zepto: the card came up over the pay bar with a full-sugar drink in the cart and lifted once the drink was removed ([screenshots](https://denzil10.github.io/lab/snack-bouncer/)). On an Android 15 emulator against a stand-in cart it also blocked taps on the pay button. If it misses a cart or covers the wrong spot, say so on [its page](https://denzil10.github.io/lab/snack-bouncer/) or [open an issue](https://github.com/Denzil10/snack-bouncer/issues).
 
 ## Install
 
-1. Download the APK from [Releases](https://github.com/Denzil10/cart-gate/releases).
-2. Open Cart Gate, read what it does, tap **I agree, turn it on**.
-3. In Accessibility settings, open Cart Gate and switch it on. On Android 13 and later a sideloaded app's switch can be greyed out: open App info → ⋮ → **Allow restricted settings**, then try again.
+1. Download the APK from [Releases](https://github.com/Denzil10/snack-bouncer/releases).
+2. Open Snack Bouncer, read what it does, tap **I agree, turn it on**.
+3. In Accessibility settings, open Snack Bouncer and switch it on. On Android 13 and later a sideloaded app's switch can be greyed out: open App info → ⋮ → **Allow restricted settings**, then try again.
 
 In the app you can switch off categories and apps, add your own words ("cheesecake, gol gappe"), and type a product name to see whether it would be blocked.
 
